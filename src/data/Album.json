@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Camila",
+    "artist": "Camila Cabello",
+    "url": "https://itunes.apple.com/us/artist/camila-cabello/935727853",
+    "image": "https://i.imgur.com/8TCiEjq.jpg",
+    "thumbnail_image": "https://i.imgur.com/F68i3HJ.jpg",
+    "featured": false
+  },
+  {
+    "title": "Dua Lipa",
+    "artist": "Dua Lipa",
+    "url": "https://itunes.apple.com/us/artist/dua-lipa/1031397873",
+    "image": "https://i.imgur.com/mFvSjtQ.jpg",
+    "thumbnail_image": "https://i.imgur.com/xSlnH1y.jpg",
+    "featured": false
+  },
+  {
+    "title": "New Light",
+    "artist": "John Mayer",
+    "url": "https://itunes.apple.com/us/artist/john-mayer/472054",
+    "image": "https://i.imgur.com/A5BUYHv.jpg",
+    "thumbnail_image": "https://i.imgur.com/A5FmF6Q.jpg",
+    "featured": true
+  },
+  {
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL.jpg",
+    "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg",
+    "featured": false
+  },
+  {
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "url": "https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/717DWgRftmL._SX522_.jpg",
+    "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg",
+    "featured": false
+  }
+]

@@ -1,0 +1,138 @@
+[
+  [
+    {
+      "title": "I Found You",
+      "artist": "benny blanco & Calvin Harris",
+      "album": "I Found You - Single",
+      "url": "https://itunes.apple.com/sg/album/i-found-you/1440016615?i=1440016616",
+      "thumbnail_image": "https://i.imgur.com/AIVy1e6.jpg",
+      "price": 128
+    },
+    {
+      "title": "Baby (feat. Marina and the Diamonds & Luis Fonsi)",
+      "artist": "Clean Bandit",
+      "album": "What is Love? (Deluxe)",
+      "url": "https://itunes.apple.com/sg/album/baby-feat-marina-and-the-diamonds-luis-fonsi/1436738680?i=1436738924",
+      "thumbnail_image": "https://i.imgur.com/Xm7Kx9m.jpg",
+      "price": 148
+    },
+    {
+      "title": "Party For One",
+      "artist": "Carly Rae Jepsen",
+      "album": "Party For One - Single",
+      "url": "https://itunes.apple.com/sg/album/party-for-one/1440077779?i=1440077786",
+      "thumbnail_image": "https://i.imgur.com/gTIbgSd.jpg",
+      "price": 128
+    },
+    {
+      "title": "Mountains (feat. Sia, Diplo & Labrinth)",
+      "artist": "LSD",
+      "album": "Mountains (feat. Sia, Diplo & Labrinth) - Single",
+      "url": "https://itunes.apple.com/sg/album/mountains-feat-sia-diplo-labrinth/1440086783?i=1440086785",
+      "thumbnail_image": "https://i.imgur.com/0HEhdbK.jpg",
+      "price": 148
+    }
+  ],
+  [
+      {
+      "title": "Carried Away",
+      "artist": "H.E.R.",
+      "album": "I Used To Know Her: Part 2 - EP",
+      "url": "https://itunes.apple.com/sg/album/carried-away/1440531681?i=1440531682",
+      "thumbnail_image": "https://i.imgur.com/oyR8vuA.jpg",
+      "price": 148
+    },
+    {
+      "title": "Perfect to Me",
+      "artist": "Anne-Marie",
+      "album": "Perfect to Me - Single",
+      "url": "https://itunes.apple.com/sg/album/perfect-to-me/1440176708?i=1440176710",
+      "thumbnail_image": "https://i.imgur.com/L9x65lD.jpg",
+      "price": 148
+    },
+    {
+      "title": "Joan of Arc",
+      "artist": "Little Mix",
+      "album": "LM5 (Deluxe)",
+      "url": "https://itunes.apple.com/sg/album/joan-of-arc/1439137827?i=1439137998",
+      "thumbnail_image": "https://i.imgur.com/F68i3HJ.jpg",
+      "price": 148
+    },
+    {
+      "title": "Mark on My Heart",
+      "artist": "Olly Murs",
+      "album": "You Know I Know (Deluxe)",
+      "url": "https://itunes.apple.com/sg/album/mark-on-my-heart/1437806868?i=1437807123",
+      "thumbnail_image": "https://i.imgur.com/h8r0cJi.jpg",
+      "price": 148
+    }
+  ],
+  [
+    {
+      "title": "Saturday Nights",
+      "artist": "Khalid",
+      "album": "Suncity",
+      "url": "https://itunes.apple.com/sg/album/saturday-nights/1438912699?i=1438912966",
+      "thumbnail_image": "https://i.imgur.com/8DhYPHp.jpg",
+      "price": 148
+    },
+    {
+      "title": "Better Together (feat. Running Torch)",
+      "artist": "Hayden James",
+      "album": "Better Together (feat. Running Torch) - Single",
+      "url": "https://itunes.apple.com/sg/album/better-together-feat-running-touch/1438062578?i=1438062579",
+      "thumbnail_image": "https://i.imgur.com/ZE9Ybhg.jpg",
+      "price": 148
+    },
+    {
+      "title": "Tempo",
+      "artist": "EXO",
+      "album": "DON'T MESS UP MY TEMPO - The 5th Album",
+      "url": "https://itunes.apple.com/sg/album/tempo/1440782229?i=1440782230",
+      "thumbnail_image": "https://i.imgur.com/mpmuM9Z.jpg",
+      "price": 148
+    },
+    {
+      "title": "Back to Life (from \"Bumble Bee\")",
+      "artist": "Hailee Steinfield",
+      "album": "Back to Life (from \"Bumble Bee\") - Single",
+      "url": "https://itunes.apple.com/sg/album/back-to-life-from-bumblebee/1440545812?i=1440545818",
+      "thumbnail_image": "https://i.imgur.com/JEf5bzw.jpg",
+      "price": 128
+    }
+  ],
+  [
+    {
+      "title": "1994",
+      "artist": "Alec Benjamin",
+      "album": "1994 - Single",
+      "url": "https://itunes.apple.com/sg/album/1994/1439524575?i=1439524576",
+      "thumbnail_image": "https://i.imgur.com/eNrCkb0.jpg",
+      "price": 148
+    },
+    {
+      "title": "Glass Onion (2018 Mix)",
+      "artist": "The Beatles",
+      "album": "The Beatles (White Album) [Super Deluxe]",
+      "url": "https://itunes.apple.com/sg/album/glass-onion-2018-mix/1436905161?i=1436905180",
+      "thumbnail_image": "https://i.imgur.com/uTd8LST.jpg",
+      "price": 128
+    },
+    {
+      "title": "Machine",
+      "artist": "Imagine Dragons",
+      "album": "Origins (Deluxe)",
+      "url": "https://itunes.apple.com/sg/album/machine/1437948883?i=1437948983",
+      "thumbnail_image": "https://i.imgur.com/RCtsonh.jpg",
+      "price": 128
+    },
+    {
+      "title": "Dreamer (feat. Mike Yung)",
+      "artist": "Martin Garrix",
+      "album": "Dreamer (feat. Mike Yung) - Single",
+      "url": "https://itunes.apple.com/sg/album/dreamer-feat-mike-yung/1440508008?i=1440508011",
+      "thumbnail_image": "https://i.imgur.com/y2CfqAK.jpg",
+      "price": 148
+    }
+  ]
+]
